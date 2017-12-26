@@ -1,0 +1,7 @@
+{
+  "binance": {
+    "apikey": "apikey",
+    "apisecret": "apisecret"
+  },
+  "log": "logs"
+}

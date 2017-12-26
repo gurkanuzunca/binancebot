@@ -1,0 +1,10 @@
+{
+  "name": "binance-alert",
+  "version": "0.0.1",
+  "dependencies": {
+    "moment": "^2.20.1",
+    "node-binance-api": "^0.2.11",
+    "prompt": "^1.0.0",
+    "ws": "^3.3.3"
+  }
+}
